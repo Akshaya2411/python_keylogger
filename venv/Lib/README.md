@@ -16,3 +16,12 @@ A keylogger is a type of monitoring software that is designed to record the keys
 1) Customise the location and variables as per your wish.
 2) Run keylogger.py. 
 3) Now the keystrokes will be entered in the text file automatically.
+
+
+
+
+
+
+
+
+
