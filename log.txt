@@ -1,12 +1,13 @@
-
- git init
-git remote add origib n ""\x16
-git checkout -b master
-git add
-git add.
-git add .
-git commit -m "python keylogger"
-git commit -m           push origin master
-\x16ReA  eadme.md
+ md
+           \x16
+\x16\x16
+\x16python_keyloggerA keylogger to recio  ord and monitor the keystrokes.as
+ REa ADME.md
+src
+Rea  EAD   ead   eadme.md
+  
 readme.md
-   b   git ad
+git init
+git remote add origin ""\x16
+git checkout -b master
+gi
