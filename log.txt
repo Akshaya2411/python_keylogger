@@ -1,0 +1,7 @@
+
+ git init
+git remote add origib n ""\x16
+git checkout -b master
+git add
+git add.
+git ad
